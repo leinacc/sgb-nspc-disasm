@@ -26,9 +26,9 @@
 
 At the bottom of the file you have:
 
-* SoundScoreArea: in `data/scores.s`, is example N-SPC music data
-* SampleSrcDir: ie DIR
-* NoteDurationRates: default counters for the 8 note length values
-* NoteVelocityRates: ??
-* InstrumentsData: https://sneslab.net/wiki/N-SPC_Engine#Instrument_Format
+* `SoundScoreArea`: in `data/scores.s`, is example N-SPC music data
+* `SampleSrcDir`: ie DIR
+* `NoteDurationRates`: default counters for the 8 note length values
+* `NoteVelocityRates`: ??
+* `InstrumentsData`: https://sneslab.net/wiki/N-SPC_Engine#Instrument_Format
 * Various samples in `data/samples.s`
