@@ -1,4 +1,4 @@
-# Rom map (initial.s)
+# Rom map (code/initial.s)
 
 | Range | Descrip |
 |-------|---------|
